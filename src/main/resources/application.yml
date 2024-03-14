@@ -1,6 +1,6 @@
 spring:
   application:
-    name: tanzu-java-web-app
+    name: vscode-demo-accel
 management:
   endpoints:
     web:
